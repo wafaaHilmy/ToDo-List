@@ -7,5 +7,8 @@ using Android Architecture Component
 
 ## Screenshots
 
-![Screenshot1](ScreenShots/Screenshot.jpg) ![ScreenShots/Screenshot3.png) ![Screenshot3](screenshots/screen_3.png)
-![Screenshot4](screenshots/screen_4.png) ![Screenshot5](screenshots/screen_5.png) 
+
+![Screenshot2](ScreenShots/Screenshot_10.png)
+![Screenshot3](ScreenShots/Screenshot_7.png)
+![Screenshot2](ScreenShots/Screenshot_8.png)
+![Screenshot2](ScreenShots/Screenshot_9.png)
